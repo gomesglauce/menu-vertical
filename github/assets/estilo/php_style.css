@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+header {
+  background-color:#a8bae3;
+  padding: 20px;
+}
+
+.enunciado {
+  color: #ffffff;
+  font-family: Arial, 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+  font-size: 30px;
+  text-align: left;
+  margin-bottom: 10px;
+  }
+
+.p_enunciado {
+  color: #ffffff;
+  font-family: Arial, 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+  font-size: 17px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+      }
+
+.espaciado {
+  margin-top: 50px;
+}
+
+.contenedor {
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
